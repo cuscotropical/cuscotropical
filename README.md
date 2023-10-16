@@ -22,3 +22,4 @@
 
  </div>
 
+![Snake animation](https://github.com/cuscotropical/cuscotropical/blob/output/github-contribution-grid-snake.svg)
