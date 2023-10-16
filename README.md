@@ -1,4 +1,4 @@
-### Hi I'm Leandro 🧟
+### Welcome to my GitHub. My name is Leandro Rodrigues Alexandre, and I am a Front-End developer!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-alexandre/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro.r.alexandre)
