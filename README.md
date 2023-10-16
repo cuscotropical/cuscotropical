@@ -1,6 +1,7 @@
 ### Welcome to my GitHub. My name is Leandro Rodrigues Alexandre, and I am a Front-End developer!
 
-![Snake animation](https://github.com/cuscotropical/cuscotropical/blob/output/github-contribution-grid-snake.svg)
+https://github.com/cuscotropical/cuscotropical/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/cuscotropical/cuscotropical/blob/output/github-contribution-grid-snake.gif)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-alexandre/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro.r.alexandre)
