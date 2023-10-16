@@ -1,5 +1,5 @@
 ### Welcome to my GitHub. My name is Leandro Rodrigues Alexandre, and I am a Front-End developer!
-&nbsp;&nbsp;&nbsp;
+
 
 ##Contacts:
 <div>
