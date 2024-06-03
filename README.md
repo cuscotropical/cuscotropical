@@ -63,7 +63,7 @@ I am a passionate iOS developer with extensive experience in Swift and creating 
 ---
 
 ## 🎉 Fun Animation
-![Animated GIF](https://tenor.com/pt-BR/view/coding-typing-big-brained-busy-sweating-gif-17808553)
+![Animated GIF](https://c.tenor.com/C9qukZqPPS4AAAAC/tenor.gif)
 
 ---
 
