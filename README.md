@@ -27,7 +27,7 @@ I am a passionate iOS developer with extensive experience in Swift and creating 
 
 
 ## 📈 GitHub Stats
-![cuscotropical GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![cuscotropical GitHub stats](https://github-readme-stats.vercel.app/api?username=cuscotropical&show_icons=true&theme=dracula)
 
 ---
 
