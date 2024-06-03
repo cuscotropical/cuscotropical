@@ -26,6 +26,15 @@ I am a passionate iOS developer with extensive experience in Swift and creating 
 - **ORM:** CoreData, Realm
 
 
+##Contacts:
+<div>
+<a href="https://www.instagram.com/leandroalexandredev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:alexandreleandrodev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leandro-r-alexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>
+
+
 ## 📈 GitHub Stats
 ![cuscotropical GitHub stats](https://github-readme-stats.vercel.app/api?username=cuscotropical&show_icons=true&theme=dracula)
 
@@ -43,7 +52,6 @@ I am a passionate iOS developer with extensive experience in Swift and creating 
 <a href="https://www.linkedin.com/in/leandro-r-alexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
 
-![cuscotropical GitHub stats](https://github-readme-stats.vercel.app/api?username=cuscotropical&show_icons=true&theme=dracula)
 
 
 ## Technologies I use in my daily life
