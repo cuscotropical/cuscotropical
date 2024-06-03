@@ -1,4 +1,38 @@
-### Welcome to my GitHub. My name is Leandro Rodrigues Alexandre, and I am a Front-End developer!
+# Hello! I'm LEANDRO 👋
+
+## About Me
+I am a passionate iOS developer with extensive experience in Swift and creating intuitive, responsive user interfaces. Additionally, I have strong front-end development skills and a basic understanding of back-end and database technologies. I am always looking for new technologies and practices to improve my skills and the quality of my projects.
+
+## 🛠️ My Skills
+
+### 📱 iOS Development
+- **Languages:** Swift, Objective-C
+- **Frameworks:** UIKit, SwiftUI, CoreData, Combine
+- **Tools:** Xcode, CocoaPods, Swift Package Manager, TestFlight
+
+### 🌐 Front-End Development
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** React, Angular, Vue.js
+- **Tools:** Webpack, npm, Yarn, Bootstrap
+
+### ⚙️ Back-End Development (Basic Knowledge)
+- **Languages:** Node.js, Python, Java
+- **Frameworks:** Express, Django, Spring Boot
+- **Tools:** Docker, Kubernetes, REST APIs
+
+### 🗃️ Database
+- **Relational:** MySQL, PostgreSQL
+- **Non-Relational:** MongoDB, Firebase
+- **ORM:** CoreData, Realm
+
+
+## 📈 GitHub Stats
+![cuscotropical GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+⭐️ Do you like my work? Feel free to reach out or star my repositories!
+
 
 
 ##Contacts:
