@@ -40,20 +40,6 @@ I am a passionate iOS developer with extensive experience in Swift and creating 
 
 ---
 
-⭐️ Do you like my work? Feel free to reach out or star my repositories!
-
-
-
-##Contacts:
-<div>
-<a href="https://www.instagram.com/leandroalexandredev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:alexandreleandrodev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/leandro-r-alexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>
-
-
-
 ## Technologies I use in my daily life
  <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -73,3 +59,7 @@ I am a passionate iOS developer with extensive experience in Swift and creating 
     <img align="center" alt="react" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="react" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
  </div>
+
+---
+
+⭐️ Do you like my work? Feel free to reach out or star my repositories!
