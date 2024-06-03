@@ -63,7 +63,8 @@ I am a passionate iOS developer with extensive experience in Swift and creating 
 ---
 
 ## 🎉
-![Animated GIF](https://c.tenor.com/C9qukZqPPS4AAAAC/tenor.gif)
+![Animated GIF](https://c.tenor.com/6KI1N4jTrhMAAAAC/tenor.gif)
+![Animated GIF](https://c.tenor.com/Gp_ZmBrVMqsAAAAC/tenor.gif)
 
 ---
 
