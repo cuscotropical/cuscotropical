@@ -1,5 +1,7 @@
 # Hello! I'm LEANDRO 👋
 
+![Animated](https://c.tenor.com/_QWf0eXAHCsAAAAd/tenor.gif)
+
 ## About Me
 I am a passionate iOS developer with extensive experience in Swift and creating intuitive, responsive user interfaces. Additionally, I have strong front-end development skills and a basic understanding of back-end and database technologies. I am always looking for new technologies and practices to improve my skills and the quality of my projects.
 
@@ -64,6 +66,22 @@ I am a passionate iOS developer with extensive experience in Swift and creating 
 
 ## 🎉
 ![Animated GIF](https://c.tenor.com/6KI1N4jTrhMAAAAC/tenor.gif)
+
+**Riddle:**
+
+In a magical town, there are four witches: A, B, C, and D. Each of them has a unique ability:
+- Witch A can only tell the truth.
+- Witch B can only tell lies.
+- Witch C alternates between telling the truth and lying.
+- Witch D is unpredictable and can say anything.
+
+You encounter the four witches, but they are all mixed up, so you don't know who is who. You can only ask one of them a question to determine who is who.
+
+What question would you ask to determine who is who?
+
+Hint: Think of a question whose answer is unique for each witch, taking into account their unique abilities to tell the truth, lie, or alternate between both.
+
+
 ![Animated GIF](https://c.tenor.com/Gp_ZmBrVMqsAAAAC/tenor.gif)
 
 ---
